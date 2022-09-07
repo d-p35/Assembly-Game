@@ -27,7 +27,8 @@
 #
 # Link to the video demo 
 # - Insert YouTube/MyMedia/other URL here and make sure the video is accessible 
-# 
+# https://youtu.be/UnN7EGm6xXU 
+
 # Any additional information that the TA needs to know: 
 # - While the game is one press, "q" to restart, and when it is on a game over page or you win page, press "r" to restart and "e" to exit
 # -
